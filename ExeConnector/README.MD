@@ -1,0 +1,2 @@
+
+<b>ExeConnector</b> is a small webserver that lets connect chess engine or telnet terminal putty to the web. For example, can fetch on Google Colab, or make a web-server based on Windows that plays strong Stockfish chess. The .cs sources are old but good for MS Studio 2022.
